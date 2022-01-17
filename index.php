@@ -8,7 +8,23 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <h1 id= "judul">Hello World</h1>
+    <div id="container">
+        <section id="a">
+            <p class= "p1">1st paragraph</p>
+            <a href="http://instagram.com/muhammadmujahid1411"></a>
+            <p class= "p2">2nd paragraph</p>
+            <p class= "p3">3rd paragraph</p>
+        </section>
+        <section id="b">
+            <p class= "p4">4th paragraph</p>
+            <ul>
+                <li>1st item</li>
+                <li>2nd item</li>
+                <li>3rd item</li>
+            </ul>
+        </section>
+    </div>
 <script src="script.js"></script>
 </body>
 </html>
