@@ -8,16 +8,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 id= "judul">Hello World</h1>
+    <h1 id= "title">Hello World</h1>
     <div id="container">
         <section id="a">
             <p class= "p1">1st paragraph</p>
-            <a href="http://instagram.com/muhammadmujahid1411"></a>
+            <a href="http://instagram.com/muhammadmujahid1411">Muhammad's Instagram</a>
             <p class= "p2">2nd paragraph</p>
             <p class= "p3">3rd paragraph</p>
         </section>
         <section id="b">
-            <p class= "p4">4th paragraph</p>
+            <p>4th paragraph</p>
             <ul>
                 <li>1st item</li>
                 <li>2nd item</li>
